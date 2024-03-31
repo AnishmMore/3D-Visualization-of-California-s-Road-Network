@@ -1,7 +1,5 @@
 # 3D-Visualization-of-California's-Road-Network
 
-# README for 3D_capri_google Notebook
-
 ## Introduction
 This Jupyter Notebook has been meticulously developed to enhance the analysis and visualization of California's vast road network via an interactive 3D model on Google Earth. At the heart of our endeavor lies the ambitious goal of amalgamating diverse datasets—ranging from OpenStreetMap for roadway infrastructure to FABDEM for elevation nuances, coupled with localized traffic information. Our vision was to craft a multifaceted tool poised to revolutionize urban planning and elevate traffic safety standards. The crowning achievement of this project is the creation of a scalable, precise model that adeptly captures the essence of traffic congestion, bottlenecks, and accident-prone zones, all encapsulated within an intuitive, user-centric interactive platform.
 
