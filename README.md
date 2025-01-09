@@ -50,6 +50,10 @@ This Jupyter Notebook has been meticulously developed to enhance the analysis an
 ![3D google earth view](https://github.com/AnishmMore/3D-Visualization-of-California-s-Road-Network/blob/main/img2.jpeg)
 ![Architecture](https://github.com/AnishmMore/3D-Visualization-of-California-s-Road-Network/blob/main/archi.jpeg)
 
+## Attribution:
+- This repository builds upon the work outlined in the paper Chen, Y.; Yang, X.; Yang, L.; Feng, J. An Automatic Approach to Extracting Large-Scale Three-Dimensional Road Networks Using Open-Source Data. Remote Sens. 2022, 14, 5746. https://doi.org/10.3390/rs14225746 and the associated repository [Road Elevation DSM GitHub](https://github.com/CubicsYang/Road_Elevation_DSM/).
+- The code and methodology from the original project have been organized and extended in this repository. Full credit for the foundational work goes to the original authors. We encourage you to review the original work for further context and details.
+
 
 ## Contact Information
 For any queries or support, please contact [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-more99/)
